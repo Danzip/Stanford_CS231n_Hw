@@ -93,9 +93,10 @@ ENV/
 
 # Rope project settings
 .ropeproject
-
+/cifar10/data
 # mkdocs documentation
 /site
-
+/.idea
+.idea
 # mypy
 .mypy_cache/
