@@ -1,0 +1,11 @@
+We implemented a very slow version of the KNN- classifier
+Our version seems very close to the version shown oon the course site.
+
+need to look at implementations using cdist that simontenously compute the distance for several test points efficently.
+
+need to look at other implementations (sklearn for example and understand how to improve speed)
+
+according to the site one should test for hyper parameters on a val set of data before testing on the test set
+you can cross-validate by changing which part of the train-data is taken as the val set.
+
+need to add readme
